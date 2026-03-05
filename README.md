@@ -1,16 +1,26 @@
-## Hi there 👋
+# PerlaHomes Web Development Projects
 
-<!--
-**George-Panagiotakopoulos/George-Panagiotakopoulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm George 👋  
+Web Developer at **PerlaHomes**, building websites, automation tools, and dashboards to improve office workflows.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hosthub Report Generator
+Node.js • Express • ExcelJS  
+Generates Excel financial reports from rental bookings.
+
+### PerlaHomes Website
+WordPress • SEO  
+Main company website, designed for usability and performance.
+
+### Automation Scripts
+Custom scripts for office tasks and reporting.
+
+## Tech Stack
+- Node.js, Express, JavaScript  
+- WordPress, HTML, CSS  
+- ExcelJS, APIs, Automation Tools
+
+## Contact
+- LinkedIn: [Your Profile Link]  
+- Email: your.email@example.com
