@@ -1,26 +1,29 @@
-# PerlaHomes Web Development Projects
+# Web Development & Automation Projects
 
 Hi, I'm George 👋  
-Web Developer at **PerlaHomes**, building websites, automation tools, and dashboards to improve office workflows.
+I build **websites and custom office automation tools** that solve real-world problems.
 
 ## Featured Projects
 
 ### Hosthub Report Generator
 Node.js • Express • ExcelJS  
-Generates Excel financial reports from rental bookings.
+Automates rental booking reporting and generates Excel financial sheets.
 
-### PerlaHomes Website
+### Construction Company Website
 WordPress • SEO  
-Main company website, designed for usability and performance.
+A professional website designed for usability and performance.
 
 ### Automation Scripts
-Custom scripts for office tasks and reporting.
+Custom scripts that improve office workflows and automate repetitive tasks.
+
+### Portfolio Website
+Personal website showcasing projects, skills, and experience.
 
 ## Tech Stack
 - Node.js, Express, JavaScript  
 - WordPress, HTML, CSS  
-- ExcelJS, APIs, Automation Tools
+- ExcelJS, REST APIs, Automation Tools  
 
 ## Contact
-- LinkedIn: [Your Profile Link]  
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/george-panagiotakopoulos-7159a9151/  
+- Email: george.panagiotakopoulos28@gmail.com
