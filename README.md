@@ -25,5 +25,5 @@ Personal website showcasing projects, skills, and experience.
 - ExcelJS, REST APIs, Automation Tools  
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/george-panagiotakopoulos-7159a9151/  
+- LinkedIn: www.linkedin.com/in/george-pana-developer  
 - Email: george.panagiotakopoulos28@gmail.com
