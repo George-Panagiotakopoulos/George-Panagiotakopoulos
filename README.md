@@ -5,9 +5,9 @@ I build **websites and custom office automation tools** that solve real-world pr
 
 ## Featured Projects
 
-### Hosthub Report Generator
+###  Report Generator
 Node.js • Express • ExcelJS  
-Automates rental booking reporting and generates Excel financial sheets.
+Automates reporting and generates Excel financial sheets.
 
 ### Construction Company Website
 WordPress • SEO  
